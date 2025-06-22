@@ -14,7 +14,7 @@ Emotions impact how phonemes are expressed in speech. This project uses phonetic
 ![model_architecture (1)](https://github.com/user-attachments/assets/72d6eadd-2e41-424f-9c0a-aa20e250d700)
 
 ## Results
-The proposed model achieved an accuracy of 78.97% on the IEMOCAP dataset, outperforming existing pure audio-based methods as of May 2024.
+The proposed model achieved an accuracy of 78.97% on the IEMOCAP dataset, outperforming existing pure audio-based methods as of May 2024 (when I did the project).
 As of June 2025, the current state-of-the-art accuracy stands at 83.1%.
 
 | Method                                            | Input       | Accuracy (%) |
